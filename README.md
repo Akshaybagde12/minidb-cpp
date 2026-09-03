@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiniDB — Lightweight SQL Storage Engine
 
 A small C++17 database project built to understand how a SQL-facing interface connects to persistent storage, indexing, and caching.
@@ -132,3 +133,6 @@ Frequently accessed records are stored in a bounded LRU cache. It is a **record 
 - More expressive `WHERE` predicates and query planning
 
 These limitations are intentional: the current version focuses on a clean end-to-end path from SQL input to indexed persistent storage.
+=======
+# minidb-cpp
+>>>>>>> 187783a8b4e711f42137a4834e883641620d099d
