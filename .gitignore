@@ -1,0 +1,19 @@
+# Keep the repository limited to the public project layout below.
+/*
+
+!.gitignore
+!README.md
+!CMakeLists.txt
+!demo.sql
+
+!/src/
+!/src/**
+
+!/tests/
+!/tests/**
+
+!/benchmarks/
+!/benchmarks/**
+
+!/docs/
+!/docs/ARCHITECTURE.md
